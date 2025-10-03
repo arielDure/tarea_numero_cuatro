@@ -32,5 +32,5 @@ Nombre del estudiante: Luis Ariel Duré Curso: Curso de Desarrollo en React JS -
 
 ####### Fuentes de imagenes
 - https://previews.123rf.com/images/yupiramos/yupiramos1607/yupiramos160710515/60039536-young-male-with-pompadour-cartoon-design-vector-illustration-graphic-icon.jpg
-- https://www.google.com/search?sca_esv=c646f4d5b1a32c30&rlz=1C1CHBF_esAR1089AR1089&sxsrf=AE3TifNkMbj1i5kQaKZnLOKh9m5iaz-44w:1759452785056&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0Qk8MgiKsZ0mDOS2di7FnzoXfcyjU12QCbBvNbYCec27QfAqVXgiQyZkZmiQvMnPMdUdBuQs4oXZSyMGD8u1R9jGVMBTvZUFsxytGjGXn570RFvxk96fN4GEFhaedm5zAgtr_Zg3fFaUHB9Asa33o1Uz-cpdaQ&q=imagen+de+varon&sa=X&sqi=2&ved=2ahUKEwitlYKy6IaQAxWTO7kGHbdCNd8QtKgLegQIEhAB&biw=851&bih=1270&dpr=1#imgrc=o3KxBcYk4a80_M&imgdii=ULygpb32CvhGFM
-- https://www.google.com/search?sca_esv=c646f4d5b1a32c30&rlz=1C1CHBF_esAR1089AR1089&sxsrf=AE3TifNkMbj1i5kQaKZnLOKh9m5iaz-44w:1759452785056&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0Qk8MgiKsZ0mDOS2di7FnzoXfcyjU12QCbBvNbYCec27QfAqVXgiQyZkZmiQvMnPMdUdBuQs4oXZSyMGD8u1R9jGVMBTvZUFsxytGjGXn570RFvxk96fN4GEFhaedm5zAgtr_Zg3fFaUHB9Asa33o1Uz-cpdaQ&q=imagen+de+varon&sa=X&sqi=2&ved=2ahUKEwitlYKy6IaQAxWTO7kGHbdCNd8QtKgLegQIEhAB&biw=851&bih=1270&dpr=1#imgrc=ULygpb32CvhGFM&imgdii=MS11lJH-QkWWAM
+- https://st4.depositphotos.com/5934840/23454/v/950/depositphotos_234542254-stock-illustration-man-profile-smiling-cartoon-vector.jpg
+- https://st3.depositphotos.com/5934840/14226/v/950/depositphotos_142263918-stock-illustration-man-cartoon-icon.jpg

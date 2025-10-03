@@ -30,7 +30,7 @@ https://github.com/arielDure/tarea_numero_cuatro/blob/main/Captura%20de%20pantal
 ###### Creditos de autor
 Nombre del estudiante: Luis Ariel Duré Curso: Curso de Desarrollo en React JS - Viernes Unidad: Unidad N° 4 - React Initial
 
-####### Fuentes de imagenes
+###### Fuentes de imagenes
 - https://previews.123rf.com/images/yupiramos/yupiramos1607/yupiramos160710515/60039536-young-male-with-pompadour-cartoon-design-vector-illustration-graphic-icon.jpg
 - https://st4.depositphotos.com/5934840/23454/v/950/depositphotos_234542254-stock-illustration-man-profile-smiling-cartoon-vector.jpg
 - https://st3.depositphotos.com/5934840/14226/v/950/depositphotos_142263918-stock-illustration-man-cartoon-icon.jpg
